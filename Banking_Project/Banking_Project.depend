@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1416763554 source:c:\users\dell 1\desktop\banking_project\banking.cpp
+	<iostream>
+	<cstdio>
+	<fstream>
+	<stdlib.h>
+	<simplecpp>
+	<cmath>
+
+1416839648 source:c:\users\dell 1\desktop\11_10_banking_application\banking_project\banking.cpp
+	<iostream>
+	<cstdio>
+	<fstream>
+	<stdlib.h>
+	<simplecpp>
+	<cmath>
+
